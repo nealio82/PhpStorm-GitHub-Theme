@@ -8,7 +8,7 @@ This theme builds upon https://github.com/Gynidark/PHPStorm-ThemeGithub and uses
 
 ### Installation
 
-Copy the contents of the .icls file in this repo and save it to your PhpStorm's 'colors' directory, eg on Mac:
+* Copy the contents of the .icls file in this repo and save it to your PhpStorm's 'colors' directory, eg on Mac:
 
 ```
 ~/Library/Preferences/PhpStorm2016.2/colors/GitHub.icls
@@ -25,6 +25,10 @@ Windows will, apparently, be somewhere like this:
 ```
 C:\Users\[Username]\.PhpStorm\config\colors
 ```
+
+* If you have PhpStorm open, restart it
+* Go to Preferences -> Editor -> Colors & Fonts, then select 'GitHub' in the 'Scheme' dropdown
+
 
 ### Consolas Font
 
