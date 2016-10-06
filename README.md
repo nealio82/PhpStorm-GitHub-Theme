@@ -33,3 +33,20 @@ C:\Users\[Username]\.PhpStorm\config\colors
 ### Consolas Font
 
 Windows users should have the consolas font already. Mac users (and possibly Linux?) follow this guide: http://ikato.com/blog/how-to-install-consolas-font-on-mac-os-x.html
+
+
+### Screenshots
+
+#### PHP
+
+![PHP Editor](PhpStorm-GitHub-Theme-PHP.png)
+
+
+#### YAML
+
+![YAML Editor](PhpStorm-GitHub-Theme-YAML.png)
+
+
+#### XML
+
+![XML Editor](PhpStorm-GitHub-Theme-XML.png)
