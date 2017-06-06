@@ -39,14 +39,14 @@ Windows users should have the consolas font already. Mac users (and possibly Lin
 
 #### PHP
 
-![PHP Editor](PhpStorm-GitHub-Theme-PHP.png)
+![PHP Editor](https://user-images.githubusercontent.com/11269635/26837426-aff9a432-4add-11e7-9a16-687e7b51a164.png)
 
 
 #### YAML
 
-![YAML Editor](PhpStorm-GitHub-Theme-YAML.png)
+![YAML Editor](https://user-images.githubusercontent.com/11269635/26837425-aff7656e-4add-11e7-958f-762d375fc758.png)
 
 
 #### XML
 
-![XML Editor](PhpStorm-GitHub-Theme-XML.png)
+![XML Editor](https://user-images.githubusercontent.com/11269635/26837427-affb13c6-4add-11e7-8af1-3abd1cb3e623.png)
