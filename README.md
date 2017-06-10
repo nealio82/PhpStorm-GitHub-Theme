@@ -50,3 +50,8 @@ Windows users should have the consolas font already. Mac users (and possibly Lin
 #### XML
 
 ![XML Editor](https://user-images.githubusercontent.com/11269635/26837427-affb13c6-4add-11e7-8af1-3abd1cb3e623.png)
+
+
+#### JavaScript
+
+![JS Editor](https://user-images.githubusercontent.com/1086726/27001703-8d7226ee-4dc8-11e7-9efe-6087ba71e901.png)
